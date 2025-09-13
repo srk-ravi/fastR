@@ -1,0 +1,5 @@
+"Title_ID","Domain","Title","FAST_Classifications","PMEST_Classifications","FAST_Assignments","PMEST_Assignments","Integration_Strength","Overall_Confidence"
+1,"management","Strategic Business Management","FAST_TOPICS:management;business","PMEST_PERSONALITY:business",2,1,1,0.87
+2,"management","Leadership Development Programs","FAST_TOPICS:leadership","PMEST_PERSONALITY:leadership | PMEST_ENERGY:development | PMEST_TIME:development",1,3,1,0.87
+1,"chemistry","Chemical Reaction Analysis","FAST_TOPICS:analysis","",1,0,0,0.283
+2,"chemistry","Molecular Structure Studies","FAST_TOPICS:molecular structure","PMEST_MATTER:molecular structure",1,1,1,0.87
